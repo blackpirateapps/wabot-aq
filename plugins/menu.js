@@ -43,6 +43,7 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
+OWNER: wa.me/14318136969
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
