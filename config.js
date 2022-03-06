@@ -7,7 +7,7 @@ global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
-  xteam: 'https://api.xteam.xyz',
+  xteam: 'https://api.xteam.xyz', '1246354b585f4708'
   zahir: 'https://zahirr-web.herokuapp.com',
   zeks: 'https://api.zeks.xyz',
   pencarikode: 'https://pencarikode.xyz',
